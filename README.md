@@ -1,4 +1,4 @@
-<h1 align="center"> YounSooKim</h1>
+<h1 align="center"> YounSoo Kim</h1>
 
 <!--
 <h3>🦢도약</h3>
