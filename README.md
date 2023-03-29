@@ -23,7 +23,7 @@
 
 <h3>저를 더 알고싶다면</h3>
 <a href="https://blog.naver.com/go1538f">
-    <img src="http://img.shields.io/badge/Naver Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://blog.naver.com/go1538f"
+    <img src="http://img.shields.io/badge/Naver Blog-00D182?style=flat&logo=Naver&logoColor=white&link=https://blog.naver.com/go1538f"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://younsoo7795@gmail.com">
